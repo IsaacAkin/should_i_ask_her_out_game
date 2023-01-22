@@ -1,0 +1,37 @@
+0,1,31,There's a girl that I like. Should I ask her out,Yes,No
+1,2,23,How should I go about it,Direct Approach,Indirect Approach?
+2,3,4,How direct should I be,To her face in front of people,To her face when we're alone?
+3,5,4,Am I confident enough for that,Yes,No (to her face when we're alone)
+4,11,12,How do I get her alone?,Ask her to meet me after school behind the gym,Ask her friends to tell her to meet me after school behind the gym
+5,6,4,Am I sure?,Yes,No (to her face when we're alone)
+6,8,7,When should I do it?,In class,During lunch
+7,0,0,She's with her friends. She's embarrassed and feels pressured by the situation and turns me down,Try again?,Try again?
+8,9,7,Are we in any of the same classes?,Yes,No (during lunch)
+9,10,7,Do we share any classes today?,Yes,No (during lunch)
+10,0,0,I ask her out during class but everyone else hears and starts making a big fuss out of it. She gets embarrassed and rejects me,Try again?,Try again?
+11,13,14,How should I do it?,Get one of my friends to ask her for me,Leave a note in her locker
+12,19,11,Am I close enough with her friends to ask them to do it?,Possibly,No (ask her to meet me behind the gym)
+13,15,16,Is he reliable enough?,Yes,No
+14,0,0,She thinks i'm spineless and refuses to meet with me,Try again?,Try again?
+15,17,18,He pulls through and she agrees to meet with me. I go to the meeting spot - It's been 5 minutes and she still hasn't shown up yet,Wait a little longer,Decide to go home
+16,0,0,He messes up and tells her that I like her instead of asking her to meet me after school. She thinks i'm spineless and refuses to date me,Try again?,Try again?
+17,0,0,She turns up and apologises for being late. It turns out that a teacher held her back for something. I tell her how I feel and she tells me that she's willing to give it a shot. We are now dating. - Congrats -,Try Again?,Try again?
+18,0,0,I get fed up and decide to go home. The next day she tries to speak to me but I ignore her. I later find out from a friend that she was held back by a teacher. She still came to the meeting spot only to find me not there. I try to talk to her but this time she ignores me and does not want to talk to me. I missed my chance,Try again?,Try again?
+19,20,21,When should I ask them to do this?,During class,During lunch
+20,22,21,Do I share any classes with any of her friends?,Yes,No (during lunch)
+21,0,0,They're all together and I feel embarrassed and intense pressure. I mess up and they laugh at me as I walk away in shame,Try again?,Try again?
+22,17,18,I ask one of her friends that's in my class and she agrees to ask her to meet me after school. It's been 5 minutes and she still hasn't shown up yet,Wait a little bit longer,Decide to leave
+23,25,24,How indirect should I be?,A little indirect,Extremely Indirect
+24,0,0,I message her on facebook but no one uses facebook anymore so she never reads my message. Nothing ever came of my crush and i'm stuck with the regret of never really knowing how she truly felt,Try again?,Try again?
+25,26,12,What should I do?,Send her a message on social media,Ask her friends
+26,27,12,Do I have her on any social media?,Yes,No (ask her friends)
+27,28,24,What platform should I use?,Instagram,Facebook
+28,29,30,How should I approach this?,Be smooth,Be straight
+29,0,0,I slide into her DM's and make her laugh. We hit it of and went out for a date. The date went well and now we're together - Congrats -,Try again?,Try again?
+30,0,0,I was straight with her and told her how I felt. The atmosphere was awkward and she told me that she didn't feel the same way,Try again?,Try again?
+31,34,32,Why not?,She's out of my league,I'm too shy
+32,33,33,Yeah it's probably not a good idea to ask her out,next...,next...
+33,0,0,Nothing ever came of my crush. I'm stuck with the regret of never really knowing how she truly felt,Try again?,Try again?
+34,35,32,Why do you think that?,That's what everyone says,I think i'm too ugly to have a chance
+35,36,32,Why does what other people think matter?,It doesn't,Because they're probably right
+36,1,1,You'll never know unless you try,That's true...,That's true...
