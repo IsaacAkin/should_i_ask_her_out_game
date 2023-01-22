@@ -1,4 +1,4 @@
-# should_i_ask_her_out_game
+# Should I ask her out game
 
 My first real attempt at a flutter based application. It is a simple decision map based game about a boy who has a crush on a girl and is debating on whether or not to ask her out. The game has two options to choose from at all times and there are several potential outcomes. This game was made in my 2nd year of my computer science degree for my Programming Application and Programming Languages Module.
 
