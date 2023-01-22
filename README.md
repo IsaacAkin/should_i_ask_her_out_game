@@ -4,4 +4,4 @@ My first real attempt at a flutter based application. It is a simple decision ma
 
 ## Getting Started
 
-This project was made intended to run on an android emulator/phone. In order to get started, first run "flutter pub get" (easiest way to do this is to save the pubspec file as this will make it run automatically). Once this is done, open your android emulator and have it on standby. Open the lib folder and then open the main.dart file. In the main.dart file, click run and the application should run in the emulator. Once it loads you should be able to play the game.
+This project was made intended to run on an android emulator/phone. In order to get started, first run "flutter pub get" in the pubspec.yaml file (another way to do this is to save the pubspec file whilst in the file as this will make it run automatically). Once this is done, open your android emulator and have it on standby. Open the lib folder and then open the main.dart file. In the main.dart file, click run and the application should run in the emulator. Once it loads you should be able to play the game.
